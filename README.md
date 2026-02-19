@@ -74,7 +74,7 @@ campus-feedback/
 
 ⚙️ Setup Instructions
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/campus-feedback.git
+git clone https://6997631e5300102b09f2a64b--lambent-dusk-f5ebe7.netlify.app/
 cd campus-feedback
 
 2️⃣ Backend Setup
